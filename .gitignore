@@ -1,0 +1,6 @@
+.venv/
+.env
+ruleflow.db
+__pycache__/
+*.pyc
+.DS_Store
